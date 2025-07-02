@@ -18,9 +18,13 @@ This app was created to make it faster for veterans to find answers without navi
 - SQLite3
 - Replit (development/testing environment)
 
-## 📂 Files
+## 🔹 URL
+
+- https://veteranchatbot.com/
+
+
+## 📂 Files (coming soon)
 
 - `vetbot.py` – main chatbot script
 - `vetbot_assistant.db` – SQLite database with all Q&A entries
 - `example_queries.txt` – sample prompts used to test
-- `/screenshots` – optional terminal preview or code view (coming soon)
